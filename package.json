@@ -7,7 +7,7 @@
     "start": "node server-side/server.js",
     "server": "nodemon server-side/server.js",
     "client": "npm start --prefix client-side",
-    "build": "npm run build --prefix client-side",
+    "build": "npm run build --prefix client-side"
     
   },
   "engines": {
