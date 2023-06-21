@@ -22,7 +22,7 @@ if (
     app.use(express.static(path.join(__dirname, "../client-side/build")));
     app.get("*", (req, res) => {
         res.sendFile(
-            path.resolve(__dirname, "../", "client-side", "build", "index.html")
+            path.resolve(__dirname, "../", "client-side", "build", "index.js")
         );
     });
 }
