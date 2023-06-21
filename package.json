@@ -8,13 +8,13 @@
     "server": "nodemon server-side/server.js",
     "client": "npm start --prefix client-side",
     "build": "npm run build --prefix client-side",
+    
   },
   "engines": {
     "npm": "8.x",
     "node": "16.x"
   },
-  "author": "Brent",
-  "license": "MIT",
+  
   "dependencies": {
     "axios": "^0.27.2",
     "bcryptjs": "^2.4.3",
