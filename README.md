@@ -36,11 +36,15 @@ npm start
 
 Here is a link to my uploaded video, demonstrating the functionality of my application
 
+Video #1 - https://clipchamp.com/watch/seyOOGTViIE
+Video #2 - https://clipchamp.com/watch/yxzDPgrfhMc
+Video #3 - https://clipchamp.com/watch/WIW7rbScm7l
 
 
 
 Additionally, the link to my deployed application
 
+https://fullstackbankapp.adaptable.app/
 
 
 ## License
